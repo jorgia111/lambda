@@ -11,7 +11,7 @@ grunt.initConfig({
 	},
 	lambda_deploy: {
     	default: {
-    		arn: 'arn:aws:lambda:us-east-1:618558285473:function:secondlambda'
+    		arn: 'arn:aws:lambda:us-east-1:618558285473:function:CreateThumbnail'
     	}
     },
 	lambda_package: {

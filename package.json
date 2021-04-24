@@ -1,5 +1,5 @@
 {
-  "name": "secondlambda",
+  "name": "CreateThumbnail",
   "version": "0.0.2",
   "description": "AWS Lambda function to create an image thumbnail",
   "main": "index.js",
